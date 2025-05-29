@@ -4,10 +4,9 @@
 To perform structured analysis on sales data using SQL queries to uncover patterns, customer trends, and business performance indicators.
 
 # Tools Used
-- MySQL – for database creation and querying
-- SQL – for writing and executing analytical queries
+- MySQL server
+- SQL  – for writing and executing analytical queries
 -  MySQL Workbench (as applicable) – for query development and testing
-- GitHub – for version control and project sharing
 
 # Steps Included
 - Created the company database and used sales table
