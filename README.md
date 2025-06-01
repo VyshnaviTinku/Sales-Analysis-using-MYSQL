@@ -1,4 +1,5 @@
-# ${\color{blue}Sales\ Analysis\ using\ MYSQL.}$ 
+<h2 style="color:blue;">💼 Sales Analysis using MYSQL</h2>
+
 
 # 🎯 Objective
 To perform structured analysis on sales data using SQL queries to uncover patterns, customer trends, and business performance indicators.
